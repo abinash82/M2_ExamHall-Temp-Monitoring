@@ -59,7 +59,7 @@ This project is best for exam hall,computer lab,physics lab, biology lab and lib
 
 ## When:
 
-This project is going to be deployed on 2/12/2021.
+This project is going to be deployed on 22/04/2022.
 
 ## How:
 
